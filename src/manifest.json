@@ -1,8 +1,8 @@
 {
- "name": "test.localhost",
+ "name": "pwa.skeleton",
  "short_name": "test",
  "lang": "ru-RU",
- "start_url": "http://test.localhost",
+ "start_url": "https://perfectelk.github.io/pwa.skeleton/",
  "display": "fullscreen",
  "theme_color": "#000000",
  "background_color":"#000000",
