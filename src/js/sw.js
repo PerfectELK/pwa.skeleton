@@ -1,4 +1,4 @@
-importScripts('/sw-toolbox.js');
+importScripts('/pwa.skeleton/sw-toolbox.js');
 
 toolbox.precache(["/index.html","/style/style.css"]);
 toolbox.router.get('/src/images/*', toolbox.cacheFirst);
